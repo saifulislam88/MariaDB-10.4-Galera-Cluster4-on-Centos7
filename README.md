@@ -7,6 +7,7 @@
 
 This guide provides instructions for installing MariaDB 10.4 Galera Cluster 4 on CentOS 7. 
 **To begin the installation process, download the provided MHTML file and open it using Microsoft Edge browser.**
+https://github.com/saifulislam88/mariadb10.4-galera-cluster4-centOS7/blob/main/MariaDB%2010.4%20Galera%20Cluster%204%20on%20Centos%207%20-%20mSi.mhtml
 Follow the installation procedure outlined in the file to set up the MariaDB Galera Cluster on your CentOS 7 system.
 
 **Or Please follow the links** https://clear-windflower-72a.notion.site/MariaDB-10-4-Galera-Cluster-4-on-Centos-7-c95fa8a0f861450a9f41b3706bb7e5a9
